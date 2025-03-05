@@ -1,0 +1,77 @@
+{
+    "subjects": [
+      {
+        "year_term": "1st Year - 1st Semester",
+        "courses": [
+          {"code": "IT111", "title": "Introduction to Computing"},
+          {"code": "IT112", "title": "Computer Programming 1"},
+          {"code": "PurCom", "title": "Purposive Communication"},
+          {"code": "RPH", "title": "Readings in Philippine History"},
+          {"code": "TCW", "title": "The Contemporary World"},
+          {"code": "MMW", "title": "Mathematics in the Modern World"},
+          {"code": "PATH FIT 1", "title": "Movement Enhancement"},
+          {"code": "NSTP101", "title": "ROTC/CWTS/LTS I"}
+        ]
+      },
+      {
+        "year_term": "1st Year - 2nd Semester",
+        "courses": [
+          {"code": "IT121", "title": "Computer Programming 2"},
+          {"code": "IT122", "title": "Data Structures and Algorithms"},
+          {"code": "IT123", "title": "Discrete Mathematics"},
+          {"code": "ArtApp", "title": "Art Appreciation"},
+          {"code": "UTS", "title": "Understanding the Self"},
+          {"code": "PATH FIT 2", "title": "Fitness Activity and Exercises"},
+          {"code": "NSTP102", "title": "ROTC/CWTS/LTS II"},
+          {"code": "STS", "title": "Science, Technology and Society"}
+        ]
+      },
+      {
+        "year_term": "2nd Year - 1st Semester",
+        "courses": [
+          {"code": "IT211", "title": "Intro to Human Computer Interaction"},
+          {"code": "IT212", "title": "Fundamentals of Database Systems"},
+          {"code": "IT213", "title": "Platform Technologies"},
+          {"code": "IT214", "title": "Object Oriented Programming"},
+          {"code": "IT215", "title": "Accounting Principles"},
+          {"code": "PATH FIT 3", "title": "Physical Activity Towards Health and Fitness 1"},
+          {"code": "EnviSci", "title": "Environmental Science"}
+        ]
+      },
+      {
+        "year_term": "2nd Year - 2nd Semester",
+        "courses": [
+          {"code": "IT221", "title": "Information Management"},
+          {"code": "IT222", "title": "Networking 1"},
+          {"code": "IT223", "title": "Web Systems and Technologies"},
+          {"code": "IT224", "title": "Systems Integration and Architecture"},
+          {"code": "Ethc", "title": "Ethics"},
+          {"code": "Rizal", "title": "Life and Works of Rizal"},
+          {"code": "PATH FIT 4", "title": "Physical Activity Towards Health and Fitness 2"}
+        ]
+      },
+      {
+        "year_term": "3rd Year - 1st Semester",
+        "courses": [
+          {"code": "IT311", "title": "Information Assurance and Security"},
+          {"code": "IT312", "title": "Networking 2"},
+          {"code": "IT313", "title": "Mobile Programming"},
+          {"code": "IT314", "title": "Software Engineering"},
+          {"code": "IT315", "title": "IT Elective 1"},
+          {"code": "ES211a", "title": "Technopreneurship"}
+        ]
+      },
+      {
+        "year_term": "3rd Year - 2nd Semester",
+        "courses": [
+          {"code": "IT321", "title": "CAPSTONE Project and Research 1"},
+          {"code": "IT322", "title": "Integrative Programming and Technologies"},
+          {"code": "IT323", "title": "Applications Development and Emerging Technologies"},
+          {"code": "IT324", "title": "Quantitative Methods"},
+          {"code": "IT325", "title": "IT Elective 2"},
+          {"code": "PICPE", "title": "Philippine Indigenous Communities and Peace Education"},
+          {"code": "FreeElec", "title": "Foreign Language"}
+        ]
+      }
+    ]
+  }
