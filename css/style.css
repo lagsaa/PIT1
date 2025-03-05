@@ -154,6 +154,44 @@ body {
 #searchBar:focus {
     border-color: #004d40;
 }
+/* Basic Table Styling */
+.subject-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 1em;
+    text-align: left;
+}
+
+.subject-table th,
+.subject-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.subject-table th {
+    background-color: #008080;
+    color: white;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .subject-table {
+        width: 100%;
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+}
+
+/* Mobile View */
+@media screen and (max-width: 480px) {
+    .subject-table th,
+    .subject-table td {
+        font-size: 14px;
+        padding: 8px;
+    }
+}
 
 
 /* Footer */
